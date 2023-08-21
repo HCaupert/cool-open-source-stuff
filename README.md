@@ -8,6 +8,8 @@ I often find/use great open source tools, but I also often forget their names. T
 - [Orchestration](#orchestration)
 - [Notification](#notification)
 - [Billing](#billing)
+- [Webhook](#webhook)
+- [Pdf](#pdf)
 
 ### Internationalization
 
@@ -54,10 +56,17 @@ No kube/helm resources available yet.
 [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal.svg?style=social)](https://github.com/temporalio/temporal)
 
 ### Notification
-#### [Novu](https://https://novu.co/)
+#### [Novu](https://novu.co/)
 [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu.svg?style=social)](https://github.com/novuhq/novu)
-
 
 ### Billing
 #### [Lago](https://www.getlago.com/)
 [![GitHub stars](https://img.shields.io/github/stars/getlago/lago.svg?style=social)](https://github.com/getlago/lago)
+
+### Webhook
+#### [Svix](https://www.svix.com/)
+[![GitHub stars](https://img.shields.io/github/stars/svix/svix-webhooks.svg?style=social)](https://github.com/svix/svix-webhooks)
+
+### Pdf
+#### [Gotenberg](https://gotenberg.dev/)
+[![GitHub stars](https://img.shields.io/github/stars/gotenberg/gotenberg.svg?style=social)](https://github.com/gotenberg/gotenberg)
